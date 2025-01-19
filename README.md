@@ -41,3 +41,19 @@ This analysis focuses on the global distribution of blood groups and calculates 
     - **AB+**: 3%
 
     Reference: [American Red Cross Blood Type Distribution](https://www.redcrossblood.org/donate-blood/blood-types.html)
+
+    # Blood Group Data Analysis
+
+This repository includes analysis on the distribution of blood groups with population data, as well as donating and receiving probabilities for each blood group.
+
+## Pie Charts
+
+### Blood Group Population Distribution
+![Population Pie Chart](population_pie.png)
+
+### Blood Group Donating Probabilities
+![Donating Pie Chart](donating_pie.png)
+
+### Blood Group Receiving Probabilities
+![Receiving Pie Chart](receiving_pie.png)
+
