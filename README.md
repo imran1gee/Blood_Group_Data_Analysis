@@ -48,12 +48,6 @@ This repository includes analysis on the distribution of blood groups with popul
 
 ## Pie Charts
 
-### Blood Group Population Distribution
-![Population Pie Chart](population_pie.png)
-
-### Blood Group Donating Probabilities
-![Donating Pie Chart](donating_pie.png)
-
 ### Blood Group Receiving Probabilities
 ![Receiving Pie Chart](receiving_pie.png)
 
